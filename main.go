@@ -2,7 +2,7 @@ package main
 
 import (
 	"database/sql"
-	"github.com/techschool/simplebank/db/util"
+	"github.com/techschool/simplebank/util"
 
 	_ "github.com/lib/pq"
 	"github.com/techschool/simplebank/api"
